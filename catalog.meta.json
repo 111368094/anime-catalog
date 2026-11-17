@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "version": "20261117T144930Z",
+  "generatedAt": "2026-11-17T14:49:30.632Z",
+  "contentHash": "b4f5bb865287f204bc4971cc001ad3e6b29020891cfdf383acf8419cf97d7a3e",
+  "sha256": "511ff6700ceda18c9e2808eda5f2536a93aecbcccbd1343a0c3293ae6db64bf7",
+  "sizeBytes": 1147487,
+  "rawBytes": 5298403,
+  "seriesCount": 1083,
+  "episodeCount": 33736,
+  "sources": [
+    {
+      "id": "muse-tw",
+      "name": "Muse 木棉花",
+      "series": 531
+    },
+    {
+      "id": "ani-one",
+      "name": "Ani-One 中文",
+      "series": 479
+    },
+    {
+      "id": "muse-movie",
+      "name": "Muse 電影台",
+      "series": 4
+    },
+    {
+      "id": "muse-family",
+      "name": "Muse 闔家歡",
+      "series": 69
+    }
+  ]
+}
